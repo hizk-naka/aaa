@@ -1,0 +1,13 @@
+D:\デスクトップ\intro-git\first\first\bin\Debug\netcoreapp3.1\first.exe
+D:\デスクトップ\intro-git\first\first\bin\Debug\netcoreapp3.1\first.deps.json
+D:\デスクトップ\intro-git\first\first\bin\Debug\netcoreapp3.1\first.runtimeconfig.json
+D:\デスクトップ\intro-git\first\first\bin\Debug\netcoreapp3.1\first.runtimeconfig.dev.json
+D:\デスクトップ\intro-git\first\first\bin\Debug\netcoreapp3.1\first.dll
+D:\デスクトップ\intro-git\first\first\bin\Debug\netcoreapp3.1\first.pdb
+D:\デスクトップ\intro-git\first\first\obj\Debug\netcoreapp3.1\first.csprojAssemblyReference.cache
+D:\デスクトップ\intro-git\first\first\obj\Debug\netcoreapp3.1\first.AssemblyInfoInputs.cache
+D:\デスクトップ\intro-git\first\first\obj\Debug\netcoreapp3.1\first.AssemblyInfo.cs
+D:\デスクトップ\intro-git\first\first\obj\Debug\netcoreapp3.1\first.csproj.CoreCompileInputs.cache
+D:\デスクトップ\intro-git\first\first\obj\Debug\netcoreapp3.1\first.dll
+D:\デスクトップ\intro-git\first\first\obj\Debug\netcoreapp3.1\first.pdb
+D:\デスクトップ\intro-git\first\first\obj\Debug\netcoreapp3.1\first.genruntimeconfig.cache
